@@ -1,2 +1,2 @@
 # gan-toon
-Little experimental projects on generative adversarial networks
+Little experimental project on generative adversarial networks
